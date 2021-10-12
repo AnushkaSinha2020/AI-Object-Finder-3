@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+    font-family: 'Special Elite', cursive;
+}
+
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+#start{
+    font-size: 18px;
+    background-color :#ff004c;
+    border: solid 5px white;
+    border-radius: 6px;
+}
+
+#detect, #status{
+    font-size: 18px;
+    border: solid 5px white;
+    border-radius: 6px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid #ff004c;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+label, input{
+    font-size: 18px;
+}
